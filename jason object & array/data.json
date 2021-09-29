@@ -1,0 +1,8 @@
+{
+	"person": [
+		{ "name": "Nasir", "age": 23, "homeTown": "Noakhali", "married": false },
+		{ "name": "Sajjad", "age": 24, "homeTown": "Dhaka", "married": false },
+		{ "name": "Maruf", "age": 25, "homeTown": "Chittagong", "married": false },
+		{ "name": "Rahat", "age": 23.5, "homeTown": "Takerhat", "married": false }
+	]
+}
